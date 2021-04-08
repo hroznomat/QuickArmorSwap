@@ -1,2 +1,2 @@
-## QuickArmorSwap
-#### Minecraft Forge mod for 1.8.9
+# QuickArmorSwap
+## Minecraft Forge mod for 1.8.9
