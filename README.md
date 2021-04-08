@@ -1,2 +1,2 @@
-# QuickArmorSwap
-A mod that allows you to at the click of a button switch between armor pieces without having to open your inventory
+## QuickArmorSwap
+#### Minecraft Forge mod for 1.8.9
